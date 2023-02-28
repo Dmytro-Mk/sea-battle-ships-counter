@@ -1,7 +1,7 @@
 # 🚢 Sea Battle Ships Counter  
 ### 📄 Short description:  
 Sea battle is a famous 2 player game where ships are placed on 2d play field and players need to guess opponent ships locations.  
-This app implements ships counting logic as well as basic play field grid validation. In our case grid is 2d int arrays where '1' means ship is present and '0' - ship is absent.
+This app implements ships counting logic as well as basic play field grid validation. In our case grid is 2d int array where '1' means ship is present and '0' - ship is absent.
 Any vertically or horizontally adjustment '1' count as one ship.
 Here are the rules for valid grid in our version of the game:
 - grid size must be at least 5x5. No upper limit.
